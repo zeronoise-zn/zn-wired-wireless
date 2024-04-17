@@ -21,8 +21,9 @@ The crystal-clear audio ensures that every critical note and instruction is hear
 - **Audio In/Out Radio Connection:** The direct team communication via external radio is supported.
 
 ## Latest firmware update:
-- Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new firmware version:
-- Firmware files: 
+- Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new firmware version:<br>
+  [ZeroNoise guide for WW firmware update](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf)
+- Firmware files:
 
 ## Latest user guides:
 - Full ZeroNoise Wired Wireless (WW) System instructions:
