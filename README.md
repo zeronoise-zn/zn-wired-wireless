@@ -22,7 +22,9 @@ The crystal-clear audio ensures that every critical note and instruction is hear
 
 ## Latest firmware update:
 Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new firmware version:<br />
-  [ZeroNoise guide for WW firmware update](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf) <br />
+*   [ZeroNoise WW firmware update user guide](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf) <br />
+
+<br>
 
 | Firmware files | |
 | :--: | :-- |
@@ -31,5 +33,6 @@ Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new fir
 | PU Helmet/Headset Unit | [WW_PU_v4.0.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_PU_v4.0.0_RELEASE.uf2) |
 
 ## Latest user guides:
-- Full ZeroNoise Wired Wireless (WW) System instructions:
-- Bell Helmet Wired Wireless (WW) instructions:
+ZeroNoise Wired Wireless (WW) System instructions:<br />
+*   [ZeroNoise Fearless WW user guide phone](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_user_guides/WW_FEARLESS_UserGuidePhone.pdf) <br />
+*   [Bell Helmets WW 10 Series user guide](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_user_guides/WW_HELMET_10SERIES_UserGuide.pdf) <br />
