@@ -21,9 +21,14 @@ The crystal-clear audio ensures that every critical note and instruction is hear
 - **Audio In/Out Radio Connection:** The direct team communication via external radio is supported.
 
 ## Latest firmware update:
-- Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new firmware version:<br>
-  [ZeroNoise guide for WW firmware update](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf)
-- Firmware files:
+Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new firmware version:<br />
+  [ZeroNoise guide for WW firmware update](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/ZeroNoiseWWSystemFirmwareUpdate_2024.pdf) <br />
+
+| Firmware files | |
+| :--: | :-- |
+| BS Intercom Unit | The most common countries are **Europe** ([WW_BS_v4.1.0_RELEASE_EU.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_BS_v4.1.0_RELEASE_EU.uf2)) and **United States** ([WW_BS_v4.1.0_RELEASE_US.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_BS_v4.1.0_RELEASE_US.uf2)). <br> However, if you need to use the intercom in a different country, you can find all supported firmware versions in [WW_firmware_v4.x.x_RELEASE/](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/) folder. |
+| BS LCD Display Unit | [WW_BS_LCD_v4.1.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_BS_LCD_v4.1.0_RELEASE.uf2) |
+| PU Helmet/Headset Unit | [WW_PU_v4.0.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_PU_v4.0.0_RELEASE.uf2) |
 
 ## Latest user guides:
 - Full ZeroNoise Wired Wireless (WW) System instructions:
