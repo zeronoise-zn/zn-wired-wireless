@@ -28,11 +28,11 @@ Instructions for upgrading the ZeroNoise Wired Wireless (WW) System to a new fir
 
 | Firmware files | |
 | :--: | :-- |
-| BS Intercom Unit | The most common countries are **Europe** ([WW_BS_v4.1.0_RELEASE_EU.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_BS_v4.1.0_RELEASE_EU.uf2)) and **United States** ([WW_BS_v4.1.0_RELEASE_US.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_BS_v4.1.0_RELEASE_US.uf2)). <br> However, if you need to use the intercom in a different country, you can find all supported firmware versions in [WW_firmware_v4.x.x_RELEASE/](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/) folder. |
-| BS LCD Display Unit | [WW_BS_LCD_v4.1.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_BS_LCD_v4.1.0_RELEASE.uf2) |
-| PU Helmet/Headset Unit | [WW_PU_v4.0.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_firmware_v4.x.x_RELEASE/WW_PU_v4.0.0_RELEASE.uf2) |
+| BS Intercom Unit | The most common countries are **Europe** ([WW_BS_v5.0.0_RELEASE_EU.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_firmware_v5.x.x_RELEASE/WW_BS_v5.0.0_RELEASE_EU.uf2)) and **United States** ([WW_BS_v5.0.0_RELEASE_US.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_firmware_v5.x.x_RELEASE/WW_BS_v5.0.0_RELEASE_US.uf2)). <br> However, if you need to use the intercom in a different country, you can find all supported firmware versions in [WW_firmware_v5.x.x_RELEASE/](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_firmware_v5.x.x_RELEASE/) folder. |
+| BS LCD Display Unit | [WW_BS_LCD_v5.0.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_firmware_v5.x.x_RELEASE/WW_BS_LCD_v5.0.0_RELEASE.uf2) |
+| PU Helmet/Headset Unit | [WW_PU_v5.0.0_RELEASE.uf2](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_firmware_v5.x.x_RELEASE/WW_PU_v5.0.0_RELEASE.uf2) |
 
 ## Latest user guides:
 ZeroNoise Wired Wireless (WW) System instructions:<br />
-*   [ZeroNoise Fearless WW user guide phone](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_user_guides/WW_FEARLESS_UserGuidePhone.pdf) <br />
-*   [Bell Helmets WW 10 Series user guide](https://github.com/zeronoise-zn/zn-wired-wireless/blob/master/WW_user_guides/WW_HELMET_10SERIES_UserGuide.pdf) <br />
+*   [ZeroNoise Fearless WW user guide phone](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_user_guides/WW_FEARLESS_UserGuidePhone.pdf) <br />
+*   [Bell Helmets WW 10 Series user guide](https://github.com/zeronoise-zn/zn-wired-wireless/blob/rev2.0/WW_user_guides/WW_HELMET_10SERIES_UserGuide.pdf) <br />
